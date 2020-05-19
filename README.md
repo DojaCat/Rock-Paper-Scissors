@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Project for Oin
+Project for Odin
